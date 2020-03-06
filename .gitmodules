@@ -1,0 +1,3 @@
+[submodule "django-wiki"]
+	path = django-wiki
+	url = git@github.com:tstuessi/django-wiki.git
